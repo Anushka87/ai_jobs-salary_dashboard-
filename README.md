@@ -15,8 +15,8 @@ This Excel dashboard analyzes the global job market for Artificial Intelligence 
 
 ## 🛠 Tools Used
 - Microsoft Excel 2019 (Power Query + Pivot Tables + Charts)
-- Dataset from [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025))
-- 
+- Dataset from [Kaggle](https://www.kaggle.com](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025)
+  
 ## 🎯 Purpose
 - Practice Excel dashboarding
 - Understand AI job market dynamics and salary trends
